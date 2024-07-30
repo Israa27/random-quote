@@ -20,5 +20,5 @@ This project is part of a challenge from [devchallenges.io](https://devchallenge
 
 
 ## :rocket:Demo
-Check out the [live demo](israa27.github.io/random-quote/)
+Check out the [live demo](israa27.github.io/random-quote/) 
 
